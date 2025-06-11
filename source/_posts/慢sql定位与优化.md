@@ -1,5 +1,5 @@
 ---
-title: 慢sql定位于优化
+title: 慢sql定位与优化
 date: 2025-06-11 21:16:31
 categories:
  - MySQL
