@@ -1,6 +1,8 @@
 ---
 title: "SpringBootApplication启动流程二(加载spring.factories文件，获取工厂实例)"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:41
+categories: SpringBoot
+tags: SpringBoot
 ---
 
 - <span style="font-size: 14px">初始化基本流程</span>

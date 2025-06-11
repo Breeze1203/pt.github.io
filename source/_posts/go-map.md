@@ -1,6 +1,8 @@
 ---
 title: "go map"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:40
+categories: go
+tags: go
 ---
 
 在 Go 语言里面，map 一种无序的键值对, 它是数据结构 hash 表的一种实现方式，类似 Python 中的字典。

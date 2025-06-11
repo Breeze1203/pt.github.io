@@ -1,6 +1,8 @@
 ---
 title: "spring事务"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:39
+categories: spring
+tags: spring
 ---
 
 ## springboot事务

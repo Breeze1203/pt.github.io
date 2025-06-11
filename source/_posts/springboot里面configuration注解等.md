@@ -1,6 +1,8 @@
 ---
 title: "SpringBoot里面@Configuration注解等"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:40
+categories: SpringBoot
+tags: SpringBoot
 ---
 
 ### SpringBoot中的@Configuration注解

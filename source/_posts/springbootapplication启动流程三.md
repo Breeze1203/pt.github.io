@@ -1,6 +1,8 @@
 ---
 title: "SpringBootApplication启动流程三"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:39
+categories: SpringBoot
+tags: SpringBoot
 ---
 
 #### <span style="font-size: 12px">public ConfigurableApplicationContext run(String... args) {} run方法</span>

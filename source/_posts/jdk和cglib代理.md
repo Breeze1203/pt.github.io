@@ -1,9 +1,8 @@
 ---
 title: "jdk和CGLIB代理"
-date: 2024-11-18 15:41:52
-layout: tags
-categories: Java
-tags: Java
+date: 2025-06-11 19:23:38
+categories: java
+tags: java
 ---
 
 #### 什么是代理？

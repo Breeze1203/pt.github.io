@@ -1,6 +1,8 @@
 ---
 title: "Redis八大应用场景"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:39
+categories: redis
+tags: redis
 ---
 
 之前讲过Redis的介绍，及使用Redis带来的优势，这章整理了一下Redis的应用场景，也是非常重要的，学不学得好，能正常落地是关键。

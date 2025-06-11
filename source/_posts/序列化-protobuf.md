@@ -1,6 +1,8 @@
 ---
 title: "序列化 Protobuf"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:38
+categories: 序列化
+tags: 序列化
 ---
 
 ## **Java序列化的弱点**

@@ -1,6 +1,8 @@
 ---
-title: "SpringSecurit  OAuth2 （文档一）"
-date: 2024-11-18 15:41:52
+title: "SpringSecurity  OAuth2 （文档一）"
+date: 2025-06-11 19:23:38
+categories: SpringSecurity 
+tags: SpringSecurity
 ---
 
 #### 注册ClientRegistrationRepository（bean或配置文件）

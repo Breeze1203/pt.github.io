@@ -1,6 +1,8 @@
 ---
 title: "SpringBootApplication启动流程一（环境判断，REACTIVE，NONE，SERVLET）"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:38
+categories: SpringBoot
+tags: SpringBoot
 ---
 
 - 初始化基本流程

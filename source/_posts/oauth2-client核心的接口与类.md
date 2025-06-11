@@ -1,6 +1,8 @@
 ---
 title: "OAuth2  Client（核心的接口与类）"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:39
+categories: SpringSecurity
+tags: SpringSecurity
 ---
 
 ### ClientRegistration

@@ -1,6 +1,8 @@
 ---
 title: "RocketMQ的两种消费模式"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:40
+categories: RockerMQ
+tags: RocketMQ
 ---
 
 **目录**

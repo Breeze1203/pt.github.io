@@ -1,6 +1,8 @@
 ---
 title: "单点登录(SSO)"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:40
+categories: sso
+tags: sso
 ---
 
 # **背景**

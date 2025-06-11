@@ -1,6 +1,8 @@
 ---
 title: "In和Exists的优化案例讲解"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:41
+categories: MySQL
+tags: MySQL
 ---
 
 - Demo Table

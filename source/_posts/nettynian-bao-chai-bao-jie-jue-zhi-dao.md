@@ -1,6 +1,8 @@
 ---
-title: "nettynian bao chai bao jie jue zhi dao"
-date: 2024-11-18 15:41:52
+title: "粘包和拆包"
+date: 2025-06-11 19:23:40
+categories: netty
+tags: netty
 ---
 
 ## **粘包和拆包**

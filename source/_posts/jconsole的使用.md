@@ -1,6 +1,8 @@
 ---
 title: "Jconsole的使用"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:41
+categories: jconsole
+tags: jconsole
 ---
 
 Jconsole，JDK自带的，一种基于JMX的可视化监视、管理工具。

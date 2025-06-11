@@ -1,6 +1,8 @@
 ---
 title: "Go语言指针"
-date: 2024-11-18 15:41:52
+date: 2025-06-11 19:23:40
+categories: go
+tags: go
 ---
 
 # Go 语言指针
