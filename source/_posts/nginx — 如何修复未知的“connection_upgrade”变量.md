@@ -1,8 +1,7 @@
 ---
 title: nginx — 如何修复未知的“connection_upgrade”变量
 date: 2024-11-28 15:22:59
-categories:
- - nginx
+categories: nginx
 tags: 
  - nginx
 ---

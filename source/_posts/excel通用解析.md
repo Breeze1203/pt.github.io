@@ -1,8 +1,8 @@
 ---
 title: "Excel通用解析"
 date: 2025-06-11 19:23:40
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ## 通用解析文件转为对象集合插入

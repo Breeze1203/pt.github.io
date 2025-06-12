@@ -1,8 +1,7 @@
 ---
 title: JVM调优
 date: 2025-05-31 21:13:30
-categories:
- - jvm
+categories: jvm
 tags: 
  - jvm
 ---

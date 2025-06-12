@@ -1,8 +1,7 @@
 ---
 title: Kafka如何实现高吞吐量
 date: 2025-01-10 11:18:11
-categories:
- - kafka
+categories: kafka
 tags: 
  - kafka
 ---

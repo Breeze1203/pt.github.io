@@ -1,15 +1,12 @@
 ---
 title: 基于SpringCloud最新版搭建的微服务可视化平台
 date: 2025-04-05 21:35:59
-categories:
- - kafka
- - oauth
- - java
+categories: [kafka,oauth,JAVA,SpringBoot]
 tags: 
  - kafka
- - java
- - springboot
- - springsecuirty
+ - JAVA
+ - SpringBoot
+ - SpringSecuirty
 ---
 
 ### 基于SpringBoot最新版的微服务可视化平台

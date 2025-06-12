@@ -1,8 +1,7 @@
 ---
 title: kafka基本操作
 date: 2025-01-21 11:10:00
-categories:
- - kafka
+categories: kafka
 tags: 
  - kafka
 ---

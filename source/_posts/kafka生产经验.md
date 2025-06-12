@@ -1,8 +1,7 @@
 ---
 title: kafka生产经验
 date: 2025-01-21 13:55:35
-categories:
- - kafka
+categories: kafka
 tags: 
  - kafka
 ---

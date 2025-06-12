@@ -1,11 +1,10 @@
 ---
 title: Executors、Executor 和 ExecutorService
 date: 2024-12-02 16:01:52
-categories:
- - java
+categories: JAVA
 tags: 
  - 并发
- - java
+ - JAVA
 ---
 
 ###### 1.Executors、Executor 和 ExecutorService

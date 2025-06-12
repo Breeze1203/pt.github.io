@@ -1,10 +1,9 @@
 ---
 title: java各种锁
 date: 2024-11-25 17:22:26
-categories:
- - java
+categories: JAVA
 tags: 
- - 并非
+ - 并发
  - 锁
 ---
 

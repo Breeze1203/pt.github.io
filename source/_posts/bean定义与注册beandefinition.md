@@ -1,8 +1,8 @@
 ---
 title: "Bean定义与注册(BeanDefinition)"
 date: 2025-06-11 19:23:39
-categories: Spring
-tags: Spring
+categories: spring
+tags: spring
 ---
 
 ## BeanDefinition

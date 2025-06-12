@@ -1,8 +1,7 @@
 ---
 title: java并发演示动画
 date: 2024-12-04 17:15:10
-categories:
- - java
+categories: JAVA
 tags: 
  - 并发
 ---

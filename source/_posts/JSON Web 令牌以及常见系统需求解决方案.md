@@ -1,8 +1,7 @@
 ---
 title: JSON Web 令牌以及常见系统需求解决方案
 date: 2025-02-09 12:02:35
-categories:
- - jwt
+categories: jwt
 tags: 
  - jwt
 ---

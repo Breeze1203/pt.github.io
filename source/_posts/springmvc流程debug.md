@@ -1,12 +1,10 @@
 ---
 title: springmvc流程debug
 date: 2025-01-03 09:10:56
-categories:
- - springboot
- - java
+categories: [SpringBoot,JAVA]
 tags: 
- - springboot
- - java
+ - SpringBoot
+ - JAVA
 ---
 
 #### spring  mvc解读

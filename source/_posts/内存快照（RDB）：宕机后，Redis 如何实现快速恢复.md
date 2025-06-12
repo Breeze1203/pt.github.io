@@ -1,8 +1,7 @@
 ---
 title: 内存快照（RDB）：宕机后，Redis 如何实现快速恢复
 date: 2025-02-07 11:22:03
-categories:
- - redis
+categories: redis
 tags: 
  - redis
 ---

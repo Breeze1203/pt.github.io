@@ -1,12 +1,10 @@
 ---
 title: 自定义枚举转化给前端json
 date: 2025-01-16 16:22:47
-categories:
- - springboot
- - java
+categories: [SpringBoot,JAVA]
 tags: 
- - java
- - springboot
+ - JAVA
+ - SpringBoot
 ---
 
 ##### json转化问题

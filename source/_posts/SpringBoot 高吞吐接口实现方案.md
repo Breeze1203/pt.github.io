@@ -1,10 +1,9 @@
 ---
 title: SpringBoot 高吞吐接口实现方案
 date: 2025-04-15 16:25:59
-categories:
- - springboot
+categories: SpringBoot
 tags: 
- - springboot
+ - SpringBoot
 ---
 
 ### SpringBoot 高吞吐接口实现方案

@@ -1,10 +1,9 @@
 ---
 title: linux启动java服务
 date: 2024-11-18 13:59:43
-categories:
- - java
+categories: JAVA
 tags: 
- - java
+ - JAVA
 ---
 
 ###### linux启动java程序

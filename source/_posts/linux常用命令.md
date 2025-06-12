@@ -1,8 +1,7 @@
 ---
 title: linux常用命令
 date: 2025-04-21 21:30:50
-categories:
- - linux
+categories: linux
 tags: 
  - linux
 ---

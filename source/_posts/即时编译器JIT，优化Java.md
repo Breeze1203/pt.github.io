@@ -1,8 +1,7 @@
 ---
 title: 即时编译器JIT，优化Java
 date: 2025-05-17 21:35:26
-categories:
- - jvm
+categories: jvm
 tags: 
  - jvm
 ---

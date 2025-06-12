@@ -1,8 +1,7 @@
 ---
 title: Redis 操作命令文档及需求
 date: 2025-04-06 21:35:10
-categories:
- - redis
+categories: redis
 tags: 
  - redis
 ---

@@ -1,8 +1,8 @@
 ---
 title: "vue登录界面模版"
 date: 2025-06-11 19:23:40
-categories: vue
-tags: vue
+categories: vue3
+tags: vue3
 ---
 
 #### index.vue

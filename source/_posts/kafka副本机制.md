@@ -1,7 +1,7 @@
 ---
 title: kafka副本机制.md
 date: 2025-06-12 21:16:46
-Tags:kaka
+Tags: kafka
 ---
 
 ### 什么是副本机制？

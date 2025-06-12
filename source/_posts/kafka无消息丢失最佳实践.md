@@ -1,8 +1,7 @@
 ---
 title: kafka无消息丢失最佳实践
 date: 2024-12-12 14:49:22
-categories:
- - kafka
+categories: kafka
 tags: 
  - kafka
 ---

@@ -1,8 +1,7 @@
 ---
 title: MySQL中的锁
 date: 2025-05-20 17:17:06
-categories:
- - MySQL
+categories: MySQL
 tags: 
  - MySQL
 ---

@@ -1,8 +1,7 @@
 ---
 title: docker部署react
 date: 2025-03-25 14:33:41
-categories:
- - react
+categories: react
 tags: 
  - react
 ---

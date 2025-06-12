@@ -1,11 +1,10 @@
 ---
 title: SpringBoot执行异步任务
 date: 2024-12-18 15:45:57
-categories:
- - springboot
+categories: SpringBoot
 tags: 
- - java
- - springboot
+ - JAVA
+ - SpringBoot
 ---
 
 #####  SpringBoot执行异步任务

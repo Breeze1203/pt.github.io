@@ -1,11 +1,9 @@
 ---
 title: mybatis-generate使用
 date: 2024-12-02 09:17:13
-categories:
- - java
- - springboot
+categories: [JAVA,SpringBoot]
 tags: 
- - springboot
+ - SpringBoot
 ---
 
 #### mybatis generator

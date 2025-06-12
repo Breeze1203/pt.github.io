@@ -1,9 +1,9 @@
 ---
 title: 手写springmvc
 date: 2025-01-02 16:24:34
-categories: java
+categories: JAVA
 tags: 
- - java
+ - JAVA
 ---
 
 #### 手写SpringMVC，理解工作原理

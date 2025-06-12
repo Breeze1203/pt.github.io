@@ -1,8 +1,7 @@
 ---
 title: Key统计
 date: 2025-05-14 16:40:02
-categories:
- - redis
+categories: redis
 tags: 
  - redis
 ---

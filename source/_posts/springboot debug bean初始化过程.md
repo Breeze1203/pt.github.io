@@ -1,10 +1,9 @@
 ---
 title: springboot debug bean初始化过程
 date: 2025-01-09 10:29:51
-categories:
- - springboot
+categories: SpringBoot
 tags: 
- - java
+ - JAVA
 ---
 
 # springboot debug bean初始化过程
