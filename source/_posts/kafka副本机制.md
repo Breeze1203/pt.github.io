@@ -149,7 +149,7 @@ bin/kafka-consumer-groups.sh --bootstrap-server <broker_list> --describe --group
 - **特定Topic或特定分区延迟高**：很可能是该Topic的消费者或该分区所在的Broker有问题。
 - **所有消费者组都延迟**：可能是整个Kafka集群或下游通用服务（如数据库、缓存）出现了问题。
 
-### 第二-步：分析具体原因
+### 第二步：分析具体原因
 
 定位到瓶颈所在后，需要进一步分析导致堆积的具体原因。
 
