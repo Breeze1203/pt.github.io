@@ -7,4 +7,4 @@ tags:
 ---
 
 
-[jvm调优.pdf](/upload/jvm调优.pdf)
+[jvm调优.pdf](/pdfs/jvm调优.pdf)
