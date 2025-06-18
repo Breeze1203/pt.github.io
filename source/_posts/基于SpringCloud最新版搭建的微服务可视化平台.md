@@ -9,7 +9,7 @@ tags:
  - SpringSecuirty
 ---
 
-### 基于SpringBoot最新版的微服务可视化平台
+### 基于SpringCloud最新版的微服务可视化平台
 
 Spring Cloud 可视化组件！以下是它的核心亮点：
 Spring Boot 3.4.2：采用最新版本的 Spring Boot，确保系统高效稳定。
